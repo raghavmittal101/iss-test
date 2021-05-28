@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 L Charan Sahit
+=======
+Vikrant Dewangan
+>>>>>>> upstream/new_branch
 Shreyash Jain
