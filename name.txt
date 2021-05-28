@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 kushagra
-=======
 Vikrant Dewangan
 Shreyash Jain
->>>>>>> upstream/new_branch
