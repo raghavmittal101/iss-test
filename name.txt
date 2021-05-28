@@ -1,6 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Gautam Ghai
 
 =======
+=======
+Vikrant Dewangan
+>>>>>>> upstream/new_branch
 Shreyash Jain
 >>>>>>> upstream/new_branch
