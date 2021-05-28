@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Devesh Marwah
+=======
+Vikrant Dewangan
+Shreyash Jain
+>>>>>>> upstream/new_branch
