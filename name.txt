@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Gautam Ghai
 
+=======
+Shreyash Jain
+>>>>>>> upstream/new_branch
