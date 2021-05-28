@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 neeraj polavarapu
-=======
-=======
 Vikrant Dewangan
->>>>>>> upstream/new_branch
 Shreyash Jain
->>>>>>> upstream/new_branch
+
